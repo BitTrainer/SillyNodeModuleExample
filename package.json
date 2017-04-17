@@ -1,0 +1,14 @@
+{
+  "name": "sillyNodeModuleExample",
+  "version": "0.0.1",
+  "description": "A sily node js module example.",
+  "keywords": [],
+  "author": "Grant van Staden <grant.vanstaden@yahoo.com.au>",
+  "repository": { "type": "git", "url": "git://github.com/bittrainer/sillyNodeModuleExample.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
